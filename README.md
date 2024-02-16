@@ -1,6 +1,5 @@
 # meal_app
-
-A new Flutter project.
+This meal app represents a mobile application made in Flutter where we can see different meals grouped by category. We can view ingredients, difficulty of making such a meal, affordability, and an image of the meal. We can filter those meals by adding filters in the sidebar, and we can also add meals to favorites
 
 ## Getting Started
 
